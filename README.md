@@ -1,5 +1,5 @@
-<script
-  src="https://www.centricwave.kr/embed/widget.js"
-  data-ogpt-widget-id="ew_bzntbv5o"
-  async>
-</script>
+# 프로젝트 이름
+
+이 프로젝트의 데모는 아래 링크에서 확인하실 수 있습니다.
+
+[데모 보기](index.html)
