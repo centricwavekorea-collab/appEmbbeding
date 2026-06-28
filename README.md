@@ -1,2 +1,5 @@
-# appEmbbeding
-storage for embbeding test
+<script
+  src="https://www.centricwave.kr/embed/widget.js"
+  data-ogpt-widget-id="ew_bzntbv5o"
+  async>
+</script>
